@@ -1,0 +1,82 @@
+{
+    "TopBar": {
+        "Home": "Home",
+        "Feature": "Features",
+        "Video": "Video",
+        "ReleaseNotes": "Changelog",
+        "Downloads": "Download",
+        "Buy": "Buy",
+        "Documents": "Documentation",
+        "ReportIssue": "Issues",
+        "Languages": "Languages"
+    },
+    "Footer": {},
+    "HomePage": {
+        "ProjectTagline": "Great file image quality and file size optimization tool for your daily work.",
+        "BtnDownload": "Free Trial",
+        "BtnBuy": "Buy",
+        "Screens": [
+            "{{images/screens/common/c1.jpg}}",
+            "{{images/screens/common/c2.jpg}}",
+            "{{images/screens/common/c3.jpg}}"
+        ],
+        "Features": {
+            "SectionName": "Main Features",
+            "list": [
+                "Minify PNG, JPEG, JPG, GIF and SVG image file format.",
+                "Compress JPEG, JPG, GIF images.",
+                "Lossless compression of PNG images.",
+                "Lossly compression of SVG images.",
+                "Batch conversion."
+            ]
+        },
+        "UserReviews": {
+            "SectionName": "Wonderful things people are saying about ImageMinify",
+            "list": [
+
+            ]
+        }
+    },
+    "FeaturePage": {},
+    "DocumentsPage": {
+        "list": [
+
+        ]
+    },
+    "VersionPage": {
+        "labelVersion": "Version",
+        "list": [
+            {
+                "version": "{{2.19}}",
+                "zipList": [
+                    {
+                        "osUrl": "{{images/download/osx.png}}",
+                        "name": "{{ImageMinify-v2.19.0-darwin-x64.zip}}",
+                        "size": "{{11.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/7wradovs07h/ImageMinify-v2.19.0-darwin-x64.zip}}"
+                    }
+                ]
+            }
+        ]
+    },
+    "BuyPage": {
+        "SectionName": "Buy",
+        "list": [
+            {
+                "name": "{{ImageMinify for Mac}}",
+                "logo": "{{images/buy/buy.png}}",
+                "buyURL": "{{https://shopper.mycommerce.com/checkout/cart/new/55399-16}}"
+            },            
+            {
+                "name": "{{ImageMinify for Mac App Store}}",
+                "logo": "{{images/buy/mas.png}}",
+                "buyURL": "{{https://itunes.apple.com/us/app/imageminify/id958007057?l=zh&ls=1&mt=12}}"
+            }
+        ]
+    },
+    "RoadMapPage": {},
+    "LanguagesPage": {
+        "SectionName": "Available language(MT)",
+        "ChangeAlert": "Switching language to complete"
+    }
+}
