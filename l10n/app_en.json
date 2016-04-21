@@ -52,8 +52,8 @@
                     {
                         "osUrl": "{{images/download/osx.png}}",
                         "name": "{{ImageMinify-v2.19.0-darwin-x64.zip}}",
-                        "size": "{{11.3MB}}",
-                        "downURL": "{{http://www.filefactory.com/file/7wradovs07h/ImageMinify-v2.19.0-darwin-x64.zip}}"
+                        "size": "{{10.3MB}}",
+                        "downURL": "{{http://www.filefactory.com/file/gtihpvymxyh/ImageMinify-v2.19.0-darwin-x64.zip}}"
                     }
                 ]
             }
