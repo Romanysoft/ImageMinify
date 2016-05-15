@@ -13,8 +13,10 @@
     "Footer": {},
     "HomePage": {
         "ProjectTagline": "Great file image quality and file size optimization tool for your daily work.",
-        "BtnDownload": "Free Trial",
+        "BtnDownload": "Download",
+        "BtnDownloadDescription": "Free | Official trial version.",
         "BtnBuy": "Buy",
+        "BtnBuyDescription": "$29.99 | Official free upgrade.",
         "Screens": [
             "{{images/screens/common/c1.jpg}}",
             "{{images/screens/common/c2.jpg}}",
